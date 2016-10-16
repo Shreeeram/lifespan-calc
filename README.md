@@ -1,10 +1,9 @@
 # Lifespan-Calculator
 
 ## Introduction
-Span of human being depends on few parameters based on which this algorithm is written to calculate the life span
-This takes human behaviour into consideration and evolve periodically with Genetic algorithm.
+Span of human being depends on few parameters like health, activities, DNA, body status, etc. Based on these this application is written to calculate the life span.
 
-You need to install below applications and how to install them
+Our app takes every parameters of human behaviour into consideration for calculation and also evolve periodically with Genetic algorithm.
 
 ### Language 
 
