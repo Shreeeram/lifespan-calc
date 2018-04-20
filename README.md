@@ -15,4 +15,4 @@ Below modules of python
 * numpy 
 ```
 
-* Reach me out for further details on this project.
+* Moved this project to private repo. Reach me out to contribute or for any further details on this project.
